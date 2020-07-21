@@ -612,11 +612,14 @@ section {
   background: #fff;
   border-radius: 4px;
 }
+.img-box{
+  background-image: url("/assets/img/section-middle.jpg");
+}
 
 .why-us .accordion-list a {
   display: block;
   position: relative;
-  font-family: 'paybooc-Bold';
+  /* font-family: 'paybooc-Bold'; */
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
