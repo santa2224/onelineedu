@@ -1,5 +1,5 @@
 /* ------ venobox.css --------*/
-.vbox-overlay *, .vbox-overlay *:before, .vbox-overlay *:after{
+/* .vbox-overlay *, .vbox-overlay *:before, .vbox-overlay *:after{
     -webkit-backface-visibility: hidden;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
@@ -24,7 +24,7 @@
     bottom: 0;
     right: 0;
     z-index: 999999;
-}
+} */
 
 /* ----- navigation ----- */
 .vbox-title{
